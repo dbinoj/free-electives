@@ -1,0 +1,29 @@
+/* 
+    Document   : tableSheet
+    Created on : 27 Sep, 2011, 2:25:48 AM
+    Author     : netadmin
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+root { 
+    display: block;
+}
+table{
+    width:35em;
+}
+td{
+    padding:0.15em;
+	width:auto;
+	border:1px solid #ddd;
+	background:#fafafa;
+        text-align:center;
+	font:bold 0.8em arial, sans-serif;
+	-moz-border-radius:0.2em;
+	-khtml-border-radius:0.2em;
+}
